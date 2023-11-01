@@ -5,7 +5,7 @@
   body {
     font-family: Arial;
     padding: 20px;
-    background-image: url("pexels-pixabay-220182.jpg");
+    background-image: url("images/pexels-pixabay-220182.jpg");
   }
 
   .header {
@@ -39,6 +39,7 @@
     background-color: green;
     width: 100%;
     padding: 20px;
+    border-radius: 10px;
   }
   
   .card {
